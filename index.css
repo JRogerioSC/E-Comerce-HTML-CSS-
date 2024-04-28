@@ -1,0 +1,46 @@
+.h2{
+    color: darkblue;
+    padding: 0px 100px;
+    font-style: initial;
+    font-size: 20px;
+}
+
+.h1{
+    color: black;
+    padding: 0px 10px;
+}
+
+.camisablack{
+padding: 10px 0px;
+width: 300px;
+
+}
+
+.main{
+    padding: 20px;
+    border-radius: 10px;
+
+
+    min-width: auto;
+    max-width: auto;
+    margin:auto;
+
+}
+
+.button{
+    color: chocolate;
+    text-decoration: none;
+}
+
+
+.button:hover{
+    color: blue;
+}
+
+.valor{
+    color: chartreuse;
+}
+
+.camisavendas{
+    color: darkred;
+}
