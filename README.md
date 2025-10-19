@@ -12,7 +12,7 @@ Site: https://camisascode.netlify.app/
 <p> - HTML <p/>
 <p> - CSS <p/>
 
-<img src="https://github.com/JRogerioSC/Loja-de-carro-HTML-CSS-/blob/main/video/Loja%20-%20Pessoal%20%E2%80%94%20Microsoft%E2%80%8B%20Edge%2013_10_2025%2018_22_44.png?raw=true" />
+<img src="https://i.postimg.cc/D0gsZv77/IMG-20251019-WA0059.jpg" />
 <br>
 <br>
-<img src="https://github.com/JRogerioSC/Loja-de-carro-HTML-CSS-/blob/main/video/loja%20html,css.jpg?raw=true" />
+<img src="https://i.postimg.cc/sxwQzTJg/IMG-20251019-WA0058.jpg" />
